@@ -7,4 +7,4 @@ This is me.
 
 I am learning GTB.
 
-![rabbit2](https://github.com/gtb-2022-chen-xinrui/.github/blob/master/image/pic2.jpg)
+![rabbit2](https://github.com/gtb-2022-chen-xinrui/.github/blob/master/image/pic.jpg)
